@@ -5,6 +5,9 @@
 // @description  Includes links to external sites
 // @author       2nd
 // @include      /^https?:\/\/steamcommunity\.com[/]+(id|profiles)[/]+[^/]+(\/|)$/
+// @updateURL    https://github.com/1v/steam-external-links/raw/master/steam-external-links.user.js
+// @downloadURL  https://github.com/1v/steam-external-links/raw/master/steam-external-links.user.js
+// @icon         http://img-fotki.yandex.ru/get/6835/203537249.14/0_13878d_ee5e20a5_orig.png
 // @grant        none
 // ==/UserScript==
 
